@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ariyan-omid
 - 👀 I’m interested in font-end & back-end
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : instagram: ariyan.omid
 - 
 
